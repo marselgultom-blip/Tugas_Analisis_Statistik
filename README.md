@@ -1,9 +1,9 @@
 # Laporan Analisis Statistik: Startup SaaS
 
 ## 1. Informasi Penyusun
-- **Nama:** [ISI NAMA ANDA]
-- **NIM:** [ISI NIM ANDA]
-- **Program Studi:** [ISI PRODI ANDA]
+- **Nama:** [MARSEL GULTOM]
+- **NIM:** [2515091069]
+- **Program Studi:** [SISTEM INFORMASI]
 
 ## 2. Deskripsi Proyek
 Proyek ini bertujuan untuk menganalisis kinerja operasional startup Software as a Service (SaaS). Fokus utama analisis adalah memahami bagaimana **Biaya Akuisisi Pelanggan (CAC)** mempengaruhi **Pendapatan Tahunan**. Dataset yang digunakan mencakup 630 data startup setelah dilakukan pembersihan data (cleaning).
@@ -38,3 +38,4 @@ Proyek ini bertujuan untuk menganalisis kinerja operasional startup Software as 
 
 ## 6. Kesimpulan
 Berdasarkan analisis yang telah dilakukan, ditemukan bahwa strategi biaya akuisisi pelanggan memiliki korelasi positif yang signifikan terhadap pertumbuhan pendapatan tahunan startup SaaS.
+
