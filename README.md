@@ -25,6 +25,9 @@ Proyek ini bertujuan untuk menganalisis kinerja operasional startup Software as 
 ### 5.1 Statistik Deskriptif
 - **Mean Pendapatan:** [32.0]
 - **Median Pendapatan:** [31.5]
+- **SD:** [19.8]
+- **MIN:** [1]
+- **MAX:** [66.9]
 ![Histogram Pendapatan](results/histogram_pendapatan.png)
 
 ### 5.2 Uji Normalitas
@@ -44,5 +47,6 @@ Ringkasan Data: Startup memiliki rata-rata pendapatan sebesar 32,0 Miliar IDR de
 Korelasi Kuat: Terdapat hubungan positif yang sangat kuat antara biaya akuisisi pelanggan (CAC) dengan pendapatan tahunan.
 
 Pengaruh Signifikan: Nilai R-Squared sebesar 0.9913 menunjukkan bahwa biaya akuisisi memberikan kontribusi sebesar 99,13% terhadap variasi pendapatan. Hal ini membuktikan bahwa alokasi biaya akuisisi yang efektif merupakan faktor kunci dalam memprediksi pertumbuhan pendapatan startup ini
+
 
 
