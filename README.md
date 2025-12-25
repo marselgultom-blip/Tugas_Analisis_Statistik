@@ -37,5 +37,12 @@ Proyek ini bertujuan untuk menganalisis kinerja operasional startup Software as 
 ![Plot Regresi](results/plot_regresi_final.png)
 
 ## 6. Kesimpulan
-Berdasarkan analisis yang telah dilakukan, ditemukan bahwa strategi biaya akuisisi pelanggan memiliki korelasi positif yang signifikan terhadap pertumbuhan pendapatan tahunan startup SaaS.
+Berdasarkan hasil analisis data startup SaaS, dapat disimpulkan bahwa:
+
+Ringkasan Data: Startup memiliki rata-rata pendapatan sebesar 32,0 Miliar IDR dengan distribusi yang cenderung tidak normal namun tetap memiliki tren yang konsisten.
+
+Korelasi Kuat: Terdapat hubungan positif yang sangat kuat antara biaya akuisisi pelanggan (CAC) dengan pendapatan tahunan.
+
+Pengaruh Signifikan: Nilai R-Squared sebesar 0.9913 menunjukkan bahwa biaya akuisisi memberikan kontribusi sebesar 99,13% terhadap variasi pendapatan. Hal ini membuktikan bahwa alokasi biaya akuisisi yang efektif merupakan faktor kunci dalam memprediksi pertumbuhan pendapatan startup ini
+
 
